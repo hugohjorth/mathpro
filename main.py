@@ -39,11 +39,6 @@ removing_noise('./images/hugo.jpg')
 
 results = pic_to_text('./images/new.jpg')
 
-# for i in results:
-#     if not i.isdigit():
-#         if not i in count:
-#             pass
-
 #Funktion för att lösa  en ekvation
 def cal(thing, variable):
     #skapar ekvationen men replacar "=" tecken med ett "," eftersom biblioteket använder kommat som ett likamed tecken
