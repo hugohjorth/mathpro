@@ -48,4 +48,4 @@ Jag hade börjat med att inte slösa min tid på mnist data settet eftersom det 
 
 ### Vad jag har lärt mig
 
-Jag har lärt mig mycket om olika vision system då framförallt om googles vision system. Jag har även lärt mig mycket om att träna olika stora datasets(även fast jag inte använd mig av det i slutprodukten)
+Jag har lärt mig mycket om olika vision system då framförallt om googles vision system. Jag har även lärt mig mycket om att träna olika stora datasets (även fast jag inte använd mig av det i slutprodukten).
