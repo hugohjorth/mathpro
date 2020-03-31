@@ -32,4 +32,12 @@ Sedan kör man koden som innehåller inyggda funktioner som läser in en bild oc
 
 Sista steget är att vi tar texten eller siffrorna i vårt fall och använder sympy ett bibliotek som löser ekvationer på dem för att lösa ekvationen.
 
+# Reflektion
 
+### Bra saker
+
+Google dokumentationen var väldigt lätt att följa och setupa och det fanns hur mycket exempel kod som helst. Sympy var också hyfsat lätt att använda.
+
+### Mindre bra saker
+
+Google vision är inte specifikt gjort för siffror eller ensklida bokstäver, utan det är gjort för ord och eftersom det inte finns något sätt att ändra det så händer det ibland om man skriver slarvigt att programmet tror att något ser ut som ett ord istället för siffror. Dessutom så funkar det inte om man skriver tex 2x utan man måste skriva 2*x för att det ska funka
