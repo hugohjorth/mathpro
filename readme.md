@@ -41,3 +41,11 @@ Google dokumentationen var väldigt lätt att följa och setupa och det fanns hu
 ### Mindre bra saker
 
 Google vision är inte specifikt gjort för siffror eller ensklida bokstäver, utan det är gjort för ord och eftersom det inte finns något sätt att ändra det så händer det ibland om man skriver slarvigt att programmet tror att något ser ut som ett ord istället för siffror. Dessutom så funkar det inte om man skriver tex 2x utan man måste skriva 2*x för att det ska funka
+
+### Om jag hade gjort om
+
+Jag hade börjat med att inte slösa min tid på mnist data settet eftersom det inte funkade för min applikation. Sedan så hade google möjligheten att träna sina egna ocr och det hade jag nog gjort om jag gjorde om det.
+
+### Vad jag har lärt mig
+
+Jag har lärt mig mycket om olika vision system då framförallt om googles vision system. Jag har även lärt mig mycket om att träna olika stora datasets(även fast jag inte använd mig av det i slutprodukten)
